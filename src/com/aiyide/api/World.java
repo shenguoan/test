@@ -6,4 +6,7 @@ package com.aiyide.api;
  * Contact 13937100809 3188767@qq.com
  */
 public class World {
+    public static void main(String[] args) {
+
+    }
 }
