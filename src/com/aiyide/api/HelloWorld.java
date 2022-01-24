@@ -9,7 +9,5 @@ public class HelloWorld {
         ArrayList<String> list = new ArrayList<>();
         list.add("dd");
         System.out.println("list = " + list);
-
-
     }
 }
